@@ -12,7 +12,7 @@ Data Cleaning and Labeling: The retrieved data is cleaned and organized, and lab
 Data Analysis: SQLite 3 and SQL queries are utilized to perform in-depth analysis on the data, extracting valuable insights.
 Dashboard Creation: A dashboard is created using Power BI, incorporating various visualizations such as pie charts, world maps, etc., to present the analyzed data in an easily understandable format.
   
-## Screenshots
+## Dashboard
 
 ![Dashboard!](Dashboard.jpg)
 
